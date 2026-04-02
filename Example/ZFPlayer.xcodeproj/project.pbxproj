@@ -581,7 +581,7 @@
 				ORGANIZATIONNAME = "紫枫";
 				TargetAttributes = {
 					6003F589195388D20070C39A = {
-						DevelopmentTeam = ML27AXLXF5;
+						DevelopmentTeam = 43DT5Z45J4;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -590,6 +590,7 @@
 						};
 					};
 					6003F5AD195388D20070C39A = {
+						DevelopmentTeam = 43DT5Z45J4;
 						TestTargetID = 6003F589195388D20070C39A;
 					};
 				};
@@ -851,7 +852,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = NO;
-				DEVELOPMENT_TEAM = ML27AXLXF5;
+				DEVELOPMENT_TEAM = 43DT5Z45J4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/ZFPlayer",
@@ -880,7 +881,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = NO;
-				DEVELOPMENT_TEAM = ML27AXLXF5;
+				DEVELOPMENT_TEAM = 43DT5Z45J4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/ZFPlayer",
@@ -905,6 +906,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 43DT5Z45J4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -928,6 +930,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 43DT5Z45J4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
